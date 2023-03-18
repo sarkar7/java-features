@@ -1,4 +1,4 @@
-package com.sarkar.common;
+package com.sarkar.java.common;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

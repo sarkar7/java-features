@@ -1,6 +1,6 @@
-package com.sarkar.stream;
+package com.sarkar.java.stream;
 
-import com.sarkar.common.Employee;
+import com.sarkar.java.common.Employee;
 
 import java.util.*;
 

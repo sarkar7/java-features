@@ -1,4 +1,4 @@
-package com.sarkar.lambda;
+package com.sarkar.java.lambda;
 
 interface Calculator {
     void switchOn();

@@ -1,4 +1,4 @@
-package com.sarkar.lambda;
+package com.sarkar.java.lambda;
 
 import java.util.function.Supplier;
 

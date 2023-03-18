@@ -1,4 +1,4 @@
-package com.sarkar.map;
+package com.sarkar.java.map;
 
 import java.util.stream.Stream;
 

@@ -1,4 +1,4 @@
-package com.sarkar.stream;
+package com.sarkar.java.stream;
 
 import java.util.*;
 
